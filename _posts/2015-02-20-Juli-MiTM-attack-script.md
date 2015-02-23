@@ -10,7 +10,6 @@ Anyway te vazhdojm me postimin.
 
 juli.pl ( Nga na erdhi ky emri ;)  ) eshte nje script i thjeshte per nje metod te quajtur MiTM  (Per sa i perket mitm do shkruaj ndonje dite tjeter dicka per kete) e njohur dhe si network sniffing .
 
-Inline-style: 
 ![alt text](http://i.imgur.com/0ouWZKF.png "Juli - MiTM Attack Perl Script")
 
 Scripti perdoret ne linux dhe duhet te egzekutohet si root user ( su )
