@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ##  Intimiteti ne Facebook 
@@ -29,5 +29,3 @@ E pare e thjeshte. Ristartoni browserin :)
 Ose nese je perdorues linuxi perdorni kete komande.
 
 > sudo ngrep -q -d any 'facebook.com' -K 10
-
-
