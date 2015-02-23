@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Intimiteti ne Facebook 
 ---
 
 ##  Intimiteti ne Facebook 
