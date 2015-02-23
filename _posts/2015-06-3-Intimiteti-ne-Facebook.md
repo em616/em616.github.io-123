@@ -4,8 +4,6 @@ layout: post
 title: Intimiteti ne Facebook 
 ---
 
-##  Intimiteti ne Facebook 
-
 Ckemi djema?
 Ne kete postim te rradhes po ju flas pak per intimitetin qe na ofron facebook.
 Pothujase te gjith jemi ne dijene se faqe si facebook japin per qeverite informacione tonat personale.
